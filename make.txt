@@ -1,0 +1,2 @@
+tar -C drf -czf django_startapp_codestyle_drf.tar.gz ./
+tar -C normal -czf django_startapp_codestyle.tar.gz ./
